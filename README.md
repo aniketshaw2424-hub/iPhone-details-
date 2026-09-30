@@ -1,8 +1,2 @@
 
-    <input
-    id="searchBox"
-    type="text"
-    placeholder="Search iPhone..."
->
-
-<div id="phoneList"></div>
+    
